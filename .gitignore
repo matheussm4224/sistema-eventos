@@ -26,3 +26,6 @@ yarn-error.log*
 /front-end/dist
 # compiled css
 *.css
+
+/backend/node_modules
+
